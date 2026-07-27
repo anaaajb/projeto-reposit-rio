@@ -15,3 +15,8 @@ width: 150px;
 height: 130px;
 
 }
+div {
+    padding: 20px;
+    border: 2px solid rgb(244, 178, 253);
+    margin: 30px;
+}
